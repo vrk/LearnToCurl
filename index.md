@@ -2,7 +2,20 @@ Hello, I am [vrk](https://github.com/vrk/) and as of Aug 14, 2017 I cannot use a
 
 This is a blog documenting my journey as I attempt to learn to use a curling iron.
 
-## WHAT IS THIS
+
+## Goal Hair
+
+<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>
+
+- [more cool hair](https://www.google.com/search?q=balayage+short+hair)
+
+## Latest hair outcome
+
+- [DAY 1: lol]()
+
+--- 
+
+### Background: WHAT IS THIS
 
 So when I was a younger vrk, I was pretty nerdy (hard to believe, I know) and didn't really do anything with hair, clothes or makeup. I found makeup and clothes were pretty easy to catch up on in later years, but hair??? fuuuuuuuu.
 
@@ -20,13 +33,6 @@ I mean... *she wasn't wrong*.
 
 I decided I'm giving it a try! I will do my hair every day-ish for the next 6 weeks, and I'm documenting my journey via this blog.
 
-## Goal Hair
-
-<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>
-
-- [more cool hair](https://www.google.com/search?q=balayage+short+hair)
-
-
 ## Aside: Curling I can do
 
 Do not confuse my inability to use a curling iron with a general inability to curl, as I am quite proficient in the following forms of curling:
@@ -34,12 +40,5 @@ Do not confuse my inability to use a curling iron with a general inability to cu
 - [Curling](https://www.youtube.com/watch?v=EMz_XwbJ8l8)
 - [`curl`ing](https://en.wikipedia.org/wiki/CURL)
 
---- 
-
-## The Chronicle
-
-- [Approach]()
 
 
-**diary**
-- [DAY 1: lol]()
