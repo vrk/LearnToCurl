@@ -11,6 +11,10 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 - DAY 1 (8/14): [lol I guess I've decided to go punk]()
 
+## Contributing
+
+This project is ~looking for contributors~ ... i.e. people who know how to use a curling iron and are willing to share their knowledge! Contact vrk on Zulip if you're an RCer or leave comments on a given post. You can also [view the open issues](https://github.com/vrk/LearnToCurl/issues).
+
 --- 
 
 ### WHAT IS THIS
