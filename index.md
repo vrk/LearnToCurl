@@ -5,13 +5,11 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 ## Goal Hair
 
-<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>
-
-- [more cool hair](https://www.google.com/search?q=balayage+short+hair)
+[<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>](https://www.google.com/search?q=balayage+short+hair)
 
 ## Latest hair outcome: 8/14/2017
 
-- [DAY 1: lol]()
+- [DAY 1: lol](): So I've decided to go punk
 
 --- 
 
