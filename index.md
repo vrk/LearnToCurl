@@ -9,7 +9,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 ## Latest hair outcome: 8/14/2017
 
-- [DAY 1: lol](): So I've decided to go punk
+- DAY 1 (8/14): [lol I guess I've decided to go punk]()
 
 --- 
 
