@@ -15,6 +15,8 @@ Here are the types of curling I am comfortable with:
 
 I would like to achieve cool girl hair:
 
-[more cool hair](https://www.google.com/search?q=balayage+short+hair)
+<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>
+
+- [more cool hair](https://www.google.com/search?q=balayage+short+hair)
 
 This can allegedly be done with a curling iron.
