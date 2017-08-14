@@ -9,13 +9,13 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 - [more cool hair](https://www.google.com/search?q=balayage+short+hair)
 
-## Latest hair outcome
+## Latest hair outcome: 8/14/2017
 
 - [DAY 1: lol]()
 
 --- 
 
-### Background: WHAT IS THIS
+### WHAT IS THIS
 
 So when I was a younger vrk, I was pretty nerdy (hard to believe, I know) and didn't really do anything with hair, clothes or makeup. I found makeup and clothes were pretty easy to catch up on in later years, but hair??? fuuuuuuuu.
 
@@ -33,7 +33,11 @@ I mean... *she wasn't wrong*.
 
 I decided I'm giving it a try! I will do my hair every day-ish for the next 6 weeks, and I'm documenting my journey via this blog.
 
-### Aside: Curling I can do
+### Theory and approach
+
+I've documented the [details of my hair experiment](), including process, exact products used, and overall strategy.
+
+### Curling I can do
 
 Do not confuse my inability to use a curling iron with a universal inability to curl, as I am reasonably proficient in the following:
 
