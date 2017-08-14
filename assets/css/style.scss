@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
 .page-header {
   background-color: #3f51b5;
   background-image: none;
