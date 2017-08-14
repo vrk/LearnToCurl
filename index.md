@@ -9,7 +9,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 ## Hair log
 
-- DAY 1 (8/15): Coming tomorrow!
+- DAY 1: Coming soon!
 
 --- 
 
