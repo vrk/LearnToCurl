@@ -7,7 +7,7 @@ id: 10
 ## Theory and Approach
 
 **As long as it takes**
-- Since I don't have to be at RC by a certain time, I will take as long as possible to do my hairstuffs. I may be coming in the afternoon, folks
+- Since I don't have to be at RC by a certain time, I will take as long as possible to do my hairstuffs. I may be coming in the afternoon, folks!
 - lol my hairstylist was like "it'll take you 20 minutes at first" MORE LIKE AN HOUR MINIMUM AND IT WILL STILL LOOK LIKE GARBAGE.
 
 **"I meant to do that"**
