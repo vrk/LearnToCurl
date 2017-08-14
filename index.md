@@ -16,9 +16,9 @@ I was like
 And she was like
 > "You're unemployed for 6 weeks! You have nowhere to be. Do your hair every morning till you get it right!"
 
-I mean... she wasn't wrong.
+I mean... *she wasn't wrong*.
 
-I'm giving it a try. This is the blog of my trials with a curling iron.
+I decided I'm giving it a try! I will do my hair every day-ish for the next 6 weeks, and I'm documenting my journey via this blog.
 
 ## Goal Hair
 
@@ -27,7 +27,10 @@ I'm giving it a try. This is the blog of my trials with a curling iron.
 - [more cool hair](https://www.google.com/search?q=balayage+short+hair)
 
 
-## Curling I can do
+## Aside: Curling I can do
+
+Do not confuse my inability to use a curling iron with a general inability to curl, as I am quite proficient in the following forms of curling:
+
 - [Curling](https://www.youtube.com/watch?v=EMz_XwbJ8l8)
 - [`curl`ing](https://en.wikipedia.org/wiki/CURL)
 
