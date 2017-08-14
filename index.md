@@ -7,7 +7,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 [<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>](https://www.google.com/search?q=balayage+short+hair)
 
-## Latest hair outcome: 8/14/2017
+## Hair log
 
 - DAY 1 (8/14): [lol I guess I've decided to go punk]()
 
