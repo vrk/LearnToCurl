@@ -18,7 +18,7 @@ And she was like
 
 I mean... she wasn't wrong.
 
-## Approach
+I'm giving it a try. This is the blog of my trials with a curling iron.
 
 ## Goal Hair
 
@@ -35,4 +35,8 @@ I mean... she wasn't wrong.
 
 ## The Chronicle
 
+- [Approach]()
+
+
+**diary**
 - [DAY 1: lol]()
