@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background-color: white;
+.page-header {
+  background-color: #3f51b5;
+  background-image: none;
 }
