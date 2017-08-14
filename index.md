@@ -5,7 +5,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 ## Goal Hair
 
-[<img src="images/goal-hair.jpg" alt="cool girl hair" height="200"/>](https://www.google.com/search?q=balayage+short+hair&tbm=isch)
+[<img src="images/goal-hair.jpg" alt="cool girl hair" height="250"/>](https://www.google.com/search?q=balayage+short+hair&tbm=isch)
 
 ## Hair Log
 
