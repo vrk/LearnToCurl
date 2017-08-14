@@ -33,7 +33,7 @@ I decided I'm giving it a try! I will do my hair every day-ish for the next 6 we
 
 ### Theory and approach
 
-I've documented the [details of my hair experiment](), including process, exact products used, and overall strategy.
+I've documented the [details of my hair experiment](approach), including overall strategy, routine, and exact products used. Feedback welcome!
 
 ### Curling I can do
 
