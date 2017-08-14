@@ -19,4 +19,8 @@ I would like to achieve cool girl hair:
 
 - [more cool hair](https://www.google.com/search?q=balayage+short+hair)
 
-This can allegedly be done with a curling iron.
+--- 
+
+## The Chronicle
+
+- [DAY 1: lol]()
