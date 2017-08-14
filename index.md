@@ -33,9 +33,9 @@ I mean... *she wasn't wrong*.
 
 I decided I'm giving it a try! I will do my hair every day-ish for the next 6 weeks, and I'm documenting my journey via this blog.
 
-## Aside: Curling I can do
+### Aside: Curling I can do
 
-Do not confuse my inability to use a curling iron with a general inability to curl, as I am quite proficient in the following forms of curling:
+Do not confuse my inability to use a curling iron with a general inability to curl, as I am reasonably proficient in the following:
 
 - [Curling](https://www.youtube.com/watch?v=EMz_XwbJ8l8)
 - [`curl`ing](https://en.wikipedia.org/wiki/CURL)
