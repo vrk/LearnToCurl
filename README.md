@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages!!!???
+## WHAT IS THIS
 
-You can use the [editor on GitHub](https://github.com/vrk/LearnToCurl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am [vrk](https://github.com/vrk/) and as of Aug 14, 2017 I cannot use a [curling iron](https://www.target.com/p/conair-174-ceramic-satin-finish-instant-heat-curling-iron-1-1-2/-/A-10538613#lnk=sametab).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a blog documenting my journey as I attempt to learn to use a curling iron.
 
-### Markdown
+### Curling I can do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are the types of curling I am comfortable with:
 
-```markdown
-Syntax highlighted code block
+- Curling
+- [`curl`ing](https://en.wikipedia.org/wiki/CURL)
 
-# Header 1
-## Header 2
-### Header 3
+### Curling I am trying to do
 
-- Bulleted
-- List
+I would like to achieve cool girl hair:
 
-1. Numbered
-2. List
+[more cool hair](https://www.google.com/search?q=balayage+short+hair)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrk/LearnToCurl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This can allegedly be done with a curling iron.
