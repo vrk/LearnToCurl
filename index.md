@@ -1,6 +1,6 @@
 Hello, I am [vrk](https://github.com/vrk/) and as of Aug 14, 2017 I cannot use a [curling iron](https://www.target.com/p/conair-174-ceramic-satin-finish-instant-heat-curling-iron-1-1-2/-/A-10538613#lnk=sametab).
 
-This is a blog documenting my journey as I attempt to learn to use a curling iron.
+This is a blog documenting my journey as I attempt to learn to use a curling iron. If I'm successful, I'm going to make history's most achievable curling iron tutorial.
 
 
 ## Goal Hair
