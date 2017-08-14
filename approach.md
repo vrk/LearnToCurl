@@ -12,7 +12,7 @@ id: 10
 
 **"I meant to do that"**
 - Depressingly, I'm always attempting to do my [goal hair](images/goal-hair.jpg), but since I cannot achieve that look yet, the I'm willing to settle for "any hairstyle." Meaning, someone should be able to look at my hair and be like "Oh OK, that's a valid hairstyle" and not "Wow what's wrong with that girl's hair?"
-- _Corrolary: Get everything else together_ If I pay more attention to my clothes/makeup, it will look more like I intended to do whatever mess I made of my hair. Like maybe I'm [trying to be this model](http://www.oystermag.com/meet-the-model-clodelle-img). (fyi searching ["messy hair"](https://www.pinterest.com/search/pins/?q=messy%20hair) on Pinterest returns upsettingly perfect-hair results)
+- _Corrolary: Get everything else together._ If I pay more attention to my clothes and makeup, it will look more like I intended to do whatever mess I made of my hair. Like maybe I'm [trying to be this model](http://www.oystermag.com/meet-the-model-clodelle-img). (fyi searching ["messy hair"](https://www.pinterest.com/search/pins/?q=messy%20hair) on Pinterest returns upsettingly perfect-hair results)
 
 **Hair tie is last resort**
 - If you see me with my hair tied up in the next 2 weeks, know that I've been defeated.
