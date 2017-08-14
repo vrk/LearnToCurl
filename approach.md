@@ -6,14 +6,16 @@ id: 10
 
 ## Theory and Approach
 
-- **As long as it takes**
-  - Since I don't have to be at RC by a certain time, I will take as long as possible to do my hairstuffs. I may be coming in the afternoon, folks
-  - lol my hairstylist was like "it'll take you 20 minutes at first" MORE LIKE AN HOUR MINIMUM AND IT WILL STILL LOOK LIKE GARBAGE.
-- **"I meant to do that"**
-  - Depressingly, I'm always attempting to do my [images/goal-hair.jpg](goal hair), but since I cannot achieve that look yet, the I'm willing to settle for "any hairstyle." Meaning, someone should be able to look at my hair and be like "Oh OK, that's a valid hairstyle" and not "Wow what's wrong with that girl's hair?"
-  - _Corrolary: Get everything else together_ If I pay more attention to my clothes/makeup, it will look more like I intended to do whatever mess I made of my hair. Like maybe I'm [trying to be this model](http://www.oystermag.com/meet-the-model-clodelle-img). (fyi searching ["messy hair"](https://www.pinterest.com/search/pins/?q=messy%20hair) on Pinterest returns upsettingly perfect-hair results)
-- **Hair tie is last resort**
-  - If you see me with my hair tied up in the next 2 weeks, know that I've been defeated.
+**As long as it takes**
+- Since I don't have to be at RC by a certain time, I will take as long as possible to do my hairstuffs. I may be coming in the afternoon, folks
+- lol my hairstylist was like "it'll take you 20 minutes at first" MORE LIKE AN HOUR MINIMUM AND IT WILL STILL LOOK LIKE GARBAGE.
+
+**"I meant to do that"**
+- Depressingly, I'm always attempting to do my [images/goal-hair.jpg](goal hair), but since I cannot achieve that look yet, the I'm willing to settle for "any hairstyle." Meaning, someone should be able to look at my hair and be like "Oh OK, that's a valid hairstyle" and not "Wow what's wrong with that girl's hair?"
+- _Corrolary: Get everything else together_ If I pay more attention to my clothes/makeup, it will look more like I intended to do whatever mess I made of my hair. Like maybe I'm [trying to be this model](http://www.oystermag.com/meet-the-model-clodelle-img). (fyi searching ["messy hair"](https://www.pinterest.com/search/pins/?q=messy%20hair) on Pinterest returns upsettingly perfect-hair results)
+
+**Hair tie is last resort**
+- If you see me with my hair tied up in the next 2 weeks, know that I've been defeated.
 
 ### The routine
 
