@@ -17,7 +17,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 So when I was a younger vrk, I was pretty nerdy (hard to believe, I know) and didn't really do anything with hair, clothes or makeup. I found makeup and clothes were pretty easy to catch up on in later years, but hair??? fuuuuuuuu.
 
-Makeup requires money and some artistry; clothes requires money and a vision. But hair??? Hair requires like... hand-eye cordination. The ability to contort your arms in weird ways around your head. It is basically a sport, and I am terrible at sports.
+Makeup requires money and painting skills; clothes requires money and a vision. But hair??? Hair requires like... hand-eye cordination. The ability to contort your arms in weird ways around your head. It is basically a sport, and I am terrible at sports.
 
 Anyway, my hair stylist recently gave me a hair cut that requires styling to look right.
 
