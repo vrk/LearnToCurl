@@ -1,3 +1,8 @@
+---
+layout: default
+comments: true
+---
+
 ## Theory and Approach
 
 - **As long as it takes**
