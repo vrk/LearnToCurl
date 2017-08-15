@@ -9,6 +9,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 
 ## Hair Log
 
+- DAY 2 (8/15): [better curls! left side still mysterious](hair/081517)
 - DAY 1 (8/14): [lol guess I am punk now](hair/081417)
 
 --- 
