@@ -10,7 +10,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 ## Hair Log
 
 {% for post in site.posts %}
-- <a href="{{ post.url }}">{{ post.title }}</a><br/>
+\- DAY {{ post.day }}: <a href="{{ post.url }}">{{ post.title }}</a><br/>
 {% endfor %}
 
 --- 
