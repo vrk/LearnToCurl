@@ -26,4 +26,4 @@ _August 16, 2017_
 
 ### Selfie
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/day3selfie.png" height="300" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/day3selfie.jpg" height="300" />
