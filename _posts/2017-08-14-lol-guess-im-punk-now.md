@@ -1,5 +1,7 @@
 ---
 layout: default
+title: lol guess I am punk now
+date: 2017-08-14
 comments: true
 id: 100
 ---
