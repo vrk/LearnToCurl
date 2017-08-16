@@ -7,7 +7,7 @@ id: 102
 day: 3
 ---
 
-## Day 3: 
+## Day 3: Rotation is tricky
 _August 16, 2017_
 
 ✅ Washed hair!  
@@ -22,4 +22,8 @@ _August 16, 2017_
 
 ### The results
 
+<iframe src="https://player.vimeo.com/video/229893102" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### Selfie
+
+<img src="{{ site.url }}/assets/images/day3selfie.png" height="300" />
