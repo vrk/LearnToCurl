@@ -4,6 +4,7 @@ title: lol guess I am punk now
 date: 2017-08-14
 comments: true
 id: 100
+day: 1
 ---
 
 ## Day 1: lol guess I am punk now
