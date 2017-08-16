@@ -1,5 +1,7 @@
 ---
 layout: default
+title: rotation is tricky
+date: 2017-08-16
 comments: true
 id: 102
 ---
