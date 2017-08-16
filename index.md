@@ -10,7 +10,7 @@ This is a blog documenting my journey as I attempt to learn to use a curling iro
 ## Hair Log
 
 {% for post in site.posts %}
-\- DAY {{ post.day }}: <a href="{{ post.url }}">{{ post.title }}</a>
+\- DAY {{ post.day }}: <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 
 --- 
@@ -46,5 +46,5 @@ Do not confuse my inability to use a curling iron with a universal inability to 
 
 ### Contributing
 
-This project is looking for contributors ... i.e. people who know how to use a curling iron and are willing to share their knowledge! Contact vrk on Zulip if you're an RCer or leave comments on a given post. You can also [view the open issues](https://github.com/vrk/LearnToCurl/issues).
+This project is looking for contributors, i.e. people who know how to use a curling iron and are willing to share their knowledge! Contact vrk on Zulip if you're an RCer or leave comments on a given post. You can also [view the open issues](https://github.com/vrk/LearnToCurl/issues).
 
