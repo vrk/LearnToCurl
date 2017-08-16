@@ -1,5 +1,7 @@
 ---
 layout: default
+title: better curls! left side still mysterious
+date: 2017-08-15
 comments: true
 id: 101
 ---
