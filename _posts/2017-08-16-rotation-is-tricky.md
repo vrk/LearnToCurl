@@ -22,8 +22,8 @@ _August 16, 2017_
 
 ### The results
 
-<iframe src="https://player.vimeo.com/video/229893102" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/229893102" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### Selfie
 
-<img src="{{ site.url }}/assets/images/day3selfie.png" height="300" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/day3selfie.png" height="300" />

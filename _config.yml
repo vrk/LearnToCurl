@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Learn To Curl
 description: Documenting my journey to learn to use a curling iron
-plugins:
+gems:
   - jekyll-feed
 baseurl: /LearnToCurl
 future: true

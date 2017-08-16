@@ -30,4 +30,4 @@ _August 15, 2017_
 
 lol
 
-<img src="{{ site.url }}/assets/images/day2selfie.png" height="300" />
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/day2selfie.png" height="300" />
