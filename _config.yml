@@ -3,3 +3,4 @@ title: Learn To Curl
 description: Documenting my journey to learn to use a curling iron
 plugins:
   - jekyll-feed
+baseurl: /LearnToCurl
