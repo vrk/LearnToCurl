@@ -4,3 +4,4 @@ description: Documenting my journey to learn to use a curling iron
 plugins:
   - jekyll-feed
 baseurl: /LearnToCurl
+future: true
