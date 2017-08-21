@@ -44,6 +44,8 @@ creviera also snapped some preeeeetty great in-progress photos:
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/day5-mid-curl.jpg" height="300" />
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/day5-waterfall.jpg" height="300" />
 
+(LOL @ my face in that first pic)
+
 **Learnings**
 - On the right side, the clampy part of the curling iron should face downward so I don't have to cross my arms when curling
 - On the left side, the CONAIR logo should show outward toward the mirror
