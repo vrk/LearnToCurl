@@ -23,7 +23,7 @@ IT'S GETTING BETTER.
 
 WHO KNEW that practicing a thing can make you better at that thing?
 
-Honestly though, isn't it amazing how just mindlessly repeating an action without really thinking about it can still make you better at that action? Esp when you're starting from as meager a start-state as I! Humans, man.
+Honestly though, isn't it amazing how just mindlessly and improperly repeating an action can still make you better at that action? Esp when you're starting from as meager a start-state as I! Humans are incredible.
 
 Curling is getting slightly faster and easier! It takes less thinking to get my hands all in position, and I'm getting better at sectioning my hair, etc. And I think I can safely resolve [this issue](https://github.com/vrk/LearnToCurl/issues/1)!
 
