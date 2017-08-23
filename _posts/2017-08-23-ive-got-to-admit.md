@@ -10,14 +10,16 @@ day: 7
 ## Day 7: I've got to admit
 _August 23, 2017_
 
+IT'S GETTING BETTER.
+
+### Daily hair overview
+
 ❌ Did not wash hair, aside from dry shampoo  
 ✅ Blow-dried hair a little from residual shower wetness. Maybe I need a [fun shower cap](http://www.yesstyle.com/en/homy-bazaar-cartoon-print-shower-cap/info.html/pid.1057131102)  
 ✅ Curled my hair and felt great about it  
 ✅ I've added this [treatment oil](https://us.neoncoproducts.com/product/treatment-oil) from Neon&Co to my routine! Discovered through the pop-up at [Canal St Market](http://canalstreet.market/).
 
 ### The morning
-
-IT'S GETTING BETTER.
 
 WHO KNEW that practicing a thing can make you better at that thing?
 
