@@ -35,7 +35,7 @@ And yes, I will still shower daily.
 
 #### On a non-wash day:
 
-\~The dream\~ is that I do such a great job styling my hair on a wash-day that I wouldn't have to do anything on a non-wash day, other than use dry shampoo. 
+\~The dream\~ is that I do such a great job styling my hair on a wash-day that I wouldn't have to do anything on a non-wash day, other than use dry shampoo.
 
 But barring that... I guess same steps as before, minus the hair dry part!
 
@@ -51,5 +51,7 @@ Also I'm open to recommendations if I'm making any terrible mistakes here!
 - Hair mask: [Drybar Mudslide Hair Mask](https://www.thedrybar.com/mudslide-hair-mask)
 - Sea salt spray: [Not Your Mother's Beach Babe Texturizing Spray](https://www.target.com/p/not-your-mother-s-beach-babe-sea-salt-texturizing-spray-8oz/-/A-17380111?sid=1139S)
 - Hair spray: [TRESemmé TRES TWO Hair Spray](https://www.amazon.com/TRESemm%C3%A9-TRES-Hair-Spray-Extra/dp/B000UWDF0A?th=1)
-- Hair oil: []() (argh meant to get a different product but whoops)
+- Oil for my ends: [OGX Renewing Moroccan Argan Oil](https://www.amazon.com/gp/product/B005DYJZ7M/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+- Treatment oil for ends+rest: [Neon&Co Treatment Oil](https://us.neoncoproducts.com/product/treatment-oil) - they've got a pop-up at Canal St Market for August 2017, and will be at Urban Outfitters after that!
+- Another treatment oil: [OGX Weightless Healing Oil](https://www.amazon.com/OGX-Weightless-Healing-Anti-Breakage-Keratin/dp/B00BB3K3JS) didn't really mean to buy this, but I guess I'm using it for flyaways and stuff.
 - Dry shampoo: [Batiste Original](https://www.amazon.com/Batiste-6-73-Dry-Shampoo-Original/dp/B008D5HAHU)
